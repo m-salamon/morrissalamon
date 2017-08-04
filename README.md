@@ -1,4 +1,4 @@
 # morrissalamon
 Personal Portfolio morrissalamon.com.
 
-background used particles.js plugin.
+background uses particles.js plugin.
